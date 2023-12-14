@@ -14,7 +14,7 @@ Repositório criado para o desáfio de código do Bootcamp Santander DIO.
 - Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde voce poderá optar por utilizar o UIkit ou SwiftUI e utilizar o Cocoapods para a criação do módulo, sendo necessário ter no mínimo um módulo bem simples e um App para usar esse módulo;
 
 ## ✅ Entregas
- [✅]APP 01: [App Netflix Clone](https://github.com/eknrufino/netflix_clone) <br>
+ [✅]APP 01: [App Netflix Clone](https://github.com/eknrufino/netflix_clone_project) <br>
  [✅]APP 02: [App Clima](https://github.com/eknrufino/aplicativo_clima) <br>
  [✅]APP 03: [App Modularização](https://github.com/eknrufino/modulariza-o) <br>
 
