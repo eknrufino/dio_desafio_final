@@ -15,7 +15,7 @@ Repositório criado para o desáfio de código do Bootcamp Santander DIO.
 
 ## ✅ Entregas
  [✅]APP 01: [App Netflix Clone](https://github.com/eknrufino/netflix_clone_project) <br>
- [✅]APP 02: [App Clima](https://github.com/eknrufino/aplicativo_clima) <br>
+ [✅]APP 02: [App Clima](https://github.com/eknrufino/Weather-Forecast-App) <br>
  [✅]APP 03: [App Modularização](https://github.com/eknrufino/modulariza-o) <br>
 
 
